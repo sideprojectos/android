@@ -3,7 +3,7 @@
  
  <!-- AOSP remote category start -->
   <remote  name="mokee"
-           fetch="https://github.com"
+           fetch="https://github.com/MoKee"
            revision="refs/heads/mkn-mr1" />
 
   <remote  name="private"
