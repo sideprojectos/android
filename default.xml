@@ -3,8 +3,8 @@
  
  <!-- AOSP remote category start -->
   <remote  name="mokee"
-           fetch=".."
-           review="https://mokeedev.review" />
+           fetch="https://github.com"
+           revision="refs/heads/mkn-mr1" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
